@@ -1,0 +1,17 @@
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csprojAssemblyReference.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfo.cs
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.deps.json
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.json
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.dev.json
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pdb
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CopyComplete
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb

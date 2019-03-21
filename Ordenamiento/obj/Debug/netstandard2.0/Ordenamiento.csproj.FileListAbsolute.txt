@@ -1,0 +1,9 @@
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csprojAssemblyReference.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csproj.CoreCompileInputs.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfoInputs.cache
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfo.cs
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.deps.json
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.pdb
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.dll
+/home/gamezcua/hmwk/tdd-gamezcua1/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.pdb
